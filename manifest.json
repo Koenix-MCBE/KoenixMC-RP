@@ -1,0 +1,40 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "KoenixMC RP",
+        "description": "Pack de textures de KoenixMC",
+        "uuid": "72dc46e0-8095-4e3f-a0d7-9c556930a2a7",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            20,
+            30
+        ]
+    },
+    "modules": [
+        {
+            "description": "My Resource Pack",
+            "type": "resources",
+            "uuid": "6c626bd7-d5dc-4b59-b24d-247f9aee45db",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "271864ba-4d9e-43be-adfc-734f42a09f60",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ]
+}
