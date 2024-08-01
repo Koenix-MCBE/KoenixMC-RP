@@ -1,0 +1,25 @@
+{
+    // "$schema": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/resource/entity/entity.json",
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "koenixmc:salameche",
+            "materials": {
+                "default": "entity_alphatest"
+            },
+            "textures": {
+                "default": "textures/entity/salameche"
+            },
+            "geometry": {
+                "default": "geometry.salameche"
+            },
+            "render_controllers": [
+                "controller.render.default"
+            ],
+            "spawn_egg": {
+                "base_color": "#d1b469",
+                "overlay_color": "#d97030"
+            }
+        }
+    }
+}
